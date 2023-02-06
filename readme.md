@@ -1,1 +1,1 @@
-Please fork the repo, do not commit here.  Once cloned, use your favorite git tool to merge 'branch' into 'main'. Resolve the conflict.
+Please fork the repo, do not commit here.  Once cloned, use your favorite git tool to merge 'branch' into 'main'. Resolve the conflict so you end up with the revion of main (tip) and line3 of tne branch named 'branch'. This should take less than 5 min, incl. fork and clone and commit && push of the conflict free merged main.
